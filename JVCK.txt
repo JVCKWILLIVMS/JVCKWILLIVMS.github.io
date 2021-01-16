@@ -2,7 +2,8 @@
 <span id="a">JVCK@WILLIVMS</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->JVCK.txt<br/><br/>
 "<span id="k">LEARN THE RULES OF THE GAME. PLAY BETTER THAN EVERYONE ELSE</span>". <!-- sjkfhskjf -->
 
-CURRENT LOCATION:<!-- slightdelayhere--> MERRITT ISLAND, FL<!-- slightdelayhere-->,USA
+NATIONALITY:<!-- slightdelayhere--> BRITISH
+CURRENT LOCATION:<!-- slightdelayhere--> MERRITT ISLAND, FL<!-- slightdelayhere-->, USA
 
 PRIVATE <!-- slightdelayhere--> PILOT</a>
 PYTHON <!-- slightdelayhere--> DEVLOPER</a>
